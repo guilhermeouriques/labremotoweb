@@ -1,4 +1,4 @@
-const cacheName = "Senai-LabRemoto-0.2.0";
+const cacheName = "Senai-LabRemoto-0.2.2";
 const contentToCache = [
     "Build/labremotoweb.loader.js",
     "Build/labremotoweb.framework.js.unityweb",
